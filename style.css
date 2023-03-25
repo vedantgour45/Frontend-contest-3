@@ -1,0 +1,154 @@
+.navbar-nav a {
+    color:#0D6EFD
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.text-part {
+    margin: 2%;
+}
+
+.text-part h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+.text-part p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+#accordionFlushExample {
+    margin:2%;
+}
+
+.accordion-header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+.row {
+    margin:2%;
+}
+
+.card-header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+.card-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+.card-subtitle {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 120%;
+    /* or 19px */
+    display: flex;
+    align-items: center;
+    /* Gray/600 */
+    color: #6C757D;
+}
+
+.card-footer {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    /* Body Text/Body Color */
+    color: #212529;
+}
+
+.go {
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 12px;
+    gap: 8px;
+    /* Theme/Primary */
+    background: #0D6EFD;
+    /* Theme/Primary */
+    border: 1px solid #0D6EFD;
+    border-radius: 4px;
+}
+
+.list-group {
+    font-size: 16px;
+    text-align: left;
+}
+
+.card-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    /* or 24px */
+    /* Body Text/Body Color */
+    color: #212529;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0
+}
+
+.card-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    text-decoration-line: underline;
+    /* Theme/Primary */
+    color: #0D6EFD;
+}
+
+.form h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Body Text/Body Color */
+    color: #212529;
+    margin: 1%;
+}
